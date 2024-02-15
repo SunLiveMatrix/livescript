@@ -84,10 +84,9 @@ class BehindTheScenes {
                       INT8_C(__width(__caddr_t)));
         }
 
-
-
-
-
+        virtual void SetLineAttributes () {
+              return ;
+        }
 
 
     }
