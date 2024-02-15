@@ -1,0 +1,9 @@
+{
+    "name": "livescript",
+    "description": " / ",
+    "projects": {
+        "livescript": "dub.json"
+    },
+    "includePath": {
+    }
+}

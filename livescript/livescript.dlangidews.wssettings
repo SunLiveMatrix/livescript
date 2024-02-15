@@ -1,0 +1,21 @@
+{
+    "startupProject": "livescript",
+    "expandedItems": [
+        "/home/admin/bellow.net/livescript/livescript/source",
+        "/home/admin/bellow.net/livescript/livescript/livescript/dub.json",
+        "/home/admin/bellow.net/livescript/livescript/source/tools",
+        "/home/admin/bellow.net/livescript/livescript/livescript/source",
+        "/home/admin/bellow.net/livescript/livescript/source/allhumanity",
+        "/home/admin/bellow.net/livescript/livescript/source/process",
+        "/home/admin/bellow.net/livescript/livescript/source/machines",
+        "/home/admin/bellow.net/livescript/livescript/source/scripts",
+        "/home/admin/bellow.net/livescript/livescript/source/lives"
+    ],
+    "selectedWorkspaceItem": "/home/admin/bellow.net/livescript/livescript/source/app.d",
+    "breakpoints": [
+    ],
+    "bookmarks": [
+    ],
+    "files": [
+    ]
+}

@@ -1,0 +1,6 @@
+{
+    "name": "livescript",
+    "targetName": "livescript",
+    "targetType": "executable",
+    "targetPath": "bin"
+}
