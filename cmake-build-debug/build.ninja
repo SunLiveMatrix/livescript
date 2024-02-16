@@ -79,8 +79,8 @@ build CMakeFiles/livescript.dir/scripts/laps/info/festpopulation/carnival/blocki
   OBJECT_DIR = CMakeFiles/livescript.dir
   OBJECT_FILE_DIR = CMakeFiles/livescript.dir/scripts/laps/info/festpopulation/carnival
 
-build CMakeFiles/livescript.dir/scripts/lives/connect/elscripts.cpp.o: CXX_COMPILER__livescript_unscanned_Debug /home/admin/bellow.net/livescript/scripts/lives/connect/elscripts.cpp || cmake_object_order_depends_target_livescript
-  DEP_FILE = CMakeFiles/livescript.dir/scripts/lives/connect/elscripts.cpp.o.d
+build CMakeFiles/livescript.dir/scripts/lives/connect/scripts.cpp.o: CXX_COMPILER__livescript_unscanned_Debug /home/admin/bellow.net/livescript/scripts/lives/connect/scripts.cpp || cmake_object_order_depends_target_livescript
+  DEP_FILE = CMakeFiles/livescript.dir/scripts/lives/connect/scripts.cpp.o.d
   FLAGS = -g -fdiagnostics-color=always
   OBJECT_DIR = CMakeFiles/livescript.dir
   OBJECT_FILE_DIR = CMakeFiles/livescript.dir/scripts/lives/connect
@@ -93,7 +93,7 @@ build CMakeFiles/livescript.dir/scripts/lives/connect/elscripts.cpp.o: CXX_COMPI
 #############################################
 # Link the executable livescript
 
-build livescript: CXX_EXECUTABLE_LINKER__livescript_Debug CMakeFiles/livescript.dir/main.cpp.o CMakeFiles/livescript.dir/scripts/laps/layout.cpp.o CMakeFiles/livescript.dir/scripts/laps/info/doginfo.cpp.o CMakeFiles/livescript.dir/scripts/laps/info/appenders/statics.cpp.o CMakeFiles/livescript.dir/scripts/laps/info/festpopulation/carnival/blocking.cpp.o CMakeFiles/livescript.dir/scripts/lives/connect/elscripts.cpp.o
+build livescript: CXX_EXECUTABLE_LINKER__livescript_Debug CMakeFiles/livescript.dir/main.cpp.o CMakeFiles/livescript.dir/scripts/laps/layout.cpp.o CMakeFiles/livescript.dir/scripts/laps/info/doginfo.cpp.o CMakeFiles/livescript.dir/scripts/laps/info/appenders/statics.cpp.o CMakeFiles/livescript.dir/scripts/laps/info/festpopulation/carnival/blocking.cpp.o CMakeFiles/livescript.dir/scripts/lives/connect/scripts.cpp.o
   FLAGS = -g
   OBJECT_DIR = CMakeFiles/livescript.dir
   POST_BUILD = :

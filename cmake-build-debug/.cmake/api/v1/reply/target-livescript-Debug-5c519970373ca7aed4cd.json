@@ -162,12 +162,12 @@
 		{
 			"backtrace" : 1,
 			"compileGroupIndex" : 0,
-			"path" : "scripts/lives/connect/elscripts.cpp",
+			"path" : "scripts/lives/connect/scripts.cpp",
 			"sourceGroupIndex" : 0
 		},
 		{
 			"backtrace" : 1,
-			"path" : "scripts/lives/connect/elscripts.h",
+			"path" : "scripts/lives/connect/scripts.h",
 			"sourceGroupIndex" : 1
 		}
 	],
